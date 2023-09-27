@@ -1,10 +1,10 @@
 # Leo and Aleo Instrcutions Grammars for GitHub Linguist Library
 
-Aleo Instructions
+## Aleo Instructions
 - [ABNF Grammar](https://github.com/AleoHQ/grammars/blob/master/aleo.abnf)
 - [Language Documentation](https://developer.aleo.org/aleo)
 
-Leo
+## Leo
 - [ABNF Grammar](https://github.com/AleoHQ/grammars/blob/master/leo.abnf)
 - [Language Documentation](https://developer.aleo.org/leo)
 

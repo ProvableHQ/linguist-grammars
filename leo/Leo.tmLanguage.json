@@ -1,9 +1,7 @@
 {
   "name": "leo",
   "scopeName": "source.leo",
-  "scope": "source.leo",
   "fileTypes": ["leo"],
-  "extension": ["leo"],
   "patterns": [
     {
       "include": "#function_declaration"

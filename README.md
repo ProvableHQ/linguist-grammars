@@ -2,11 +2,13 @@
 
 ### Aleo Instructions
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./aleo-instructions/LICENSE.txt)
-- [ABNF Grammar](https://github.com/AleoHQ/grammars/blob/master/aleo.abnf)
-- [Language Documentation](https://developer.aleo.org/aleo)
+- [TextMate-compatible grammar](https://github.com/AleoHQ/linguist-grammars/tree/master/aleo-instructions)
+- [ABNF grammar](https://github.com/AleoHQ/grammars/blob/master/aleo.abnf)
+- [Language documentation](https://developer.aleo.org/aleo/language)
 
 ### Leo
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./leo/LICENSE.txt)
-- [ABNF Grammar](https://github.com/AleoHQ/grammars/blob/master/leo.abnf)
-- [Language Documentation](https://developer.aleo.org/leo)
+- [TextMate-compatible grammar](https://github.com/AleoHQ/linguist-grammars/tree/master/leo)
+- [ABNF grammar](https://github.com/AleoHQ/grammars/blob/master/leo.abnf)
+- [Language documentation](https://developer.aleo.org/leo/language#layout-of-a-leo-program)
 

@@ -1,9 +1,7 @@
 {
   "name": "Aleo",
   "scopeName": "source.aleo",
-  "scope": "source.aleo",
   "fileTypes": ["aleo"],
-  "extension": ["aleo"],
   "patterns": [
     {
       "include": "#block_comment"

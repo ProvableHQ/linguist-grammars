@@ -2,7 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>extension</key>
 	<array>
 		<string>leo</string>
 	</array>
@@ -972,7 +971,6 @@
 			</array>
 		</dict>
 	</dict>
-	<key>scope</key>
 	<string>source.leo</string>
 	<key>scopeName</key>
 	<string>source.leo</string>

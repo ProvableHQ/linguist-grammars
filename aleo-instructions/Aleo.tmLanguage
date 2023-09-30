@@ -77,7 +77,7 @@
         <key>name</key>
         <string>visibility.aleo</string>
         <key>match</key>
-        <string>\b(constant|public|private|aleo)\b</string>
+        <string>\b(constant|public|private)\b</string>
       </dict>
       <key>instructions</key>
       <dict>

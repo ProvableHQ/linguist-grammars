@@ -46,7 +46,7 @@
     },
     "visibility": {
       "name": "visibility.aleo",
-      "match": "\\b(constant|public|private|aleo)\\b"
+      "match": "\\b(constant|public|private)\\b"
     },
     "instructions": {
       "name": "instruction.aleo",

@@ -6,11 +6,7 @@
     <string>Aleo</string>
     <key>scopeName</key>
     <string>source.aleo</string>
-    <string>source.aleo</string>
     <key>fileTypes</key>
-    <array>
-      <string>aleo</string>
-    </array>
     <array>
       <string>aleo</string>
     </array>

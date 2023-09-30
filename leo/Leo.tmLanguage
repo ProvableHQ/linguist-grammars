@@ -111,6 +111,19 @@
 	</array>
 	<key>repository</key>
 	<dict>
+		<key>transition_name</key>
+	        <dict>
+	            <key>match</key>
+	            <string>\btransition\s+(\w+)</string>
+	            <key>captures</key>
+	            <dict>
+	                <key>1</key>
+	                <dict>
+	                    <key>name</key>
+	                    <string>entity.name.transition.leo</string>
+	                </dict>
+	            </dict>
+	        </dict>
 		<key>address_literal</key>
 		<dict>
 			<key>comment</key>
@@ -158,6 +171,10 @@
 			<string>comment.block.leo</string>
 			<key>patterns</key>
 			<array>
+				<dict>
+			            <key>include</key>
+			            <string>#transition_name</string>
+			        </dict>
 				<dict>
 					<key>match</key>
 					<string>\\.</string>

@@ -56,14 +56,14 @@
         <key>name</key>
         <string>keyword.control.aleo</string>
         <key>match</key>
-        <string>\b(function|program|as|closure|into|import|record|mapping|key|value|struct|input|output|to)\b</string>
+        <string>\b(as|closure|function|import|input|into|key|mapping|output|program|record|struct|to|value)\b</string>
       </dict>
       <key>finalize</key>
       <dict>
         <key>name</key>
         <string>finalize.aleo</string>
         <key>match</key>
-        <string>\b(finalize|contains|get|get\.or_use|set|remove|rand\.chacha|position|branch\.eq|branch\.neq|await)\b</string>
+        <string>\b(await|branch\.eq|branch\.neq|contains|finalize|get\.or_use|get|position|rand\.chacha|remove|set)\b</string>
       </dict>
       <key>qualifiers</key>
       <dict>
@@ -84,7 +84,7 @@
         <key>name</key>
         <string>instruction.aleo</string>
         <key>match</key>
-        <string>\b(abs\.w|abs|add\.w|add|and|assert\.eq|assert\.neq|async|call|cast|cast\.lossy|commit\.bhp256|commit\.bhp512|commit\.bhp768|commit\.bhp1024|commit\.ped64|commit\.ped128|div\.w|div|double|gt|gte|hash\.bhp256|hash\.bhp512|hash\.bhp768|hash\.bhp1024|hash\.ped64|hash\.ped128|hash\.psd2|hash\.psd4|hash\.psd8|hash\.keccak256|hash\.keccak384|hash\.keccak512||hash\.sha3_256|hash\.sha3_384|hash\.sha3_512|hash_many\.psd2|hash_many\.psd4|hash_many\.psd8|inv|is\.eq|is\.neq|lt|lte|mod|mul\.w|mul|nand|neg|nor|not|or|pow\.w|pow|rem\.w|rem|shl\.w|shl|shr\.w|shr|sqrt|sub\.w|sub|square|ternary|xor|sign\.verify)\b</string>
+        <string>\b(abs\.w|abs|add\.w|add|and|assert\.eq|assert\.neq|async|call|cast\.lossy|cast|commit\.bhp256|commit\.bhp512|commit\.bhp768|commit\.bhp1024|commit\.ped64|commit\.ped128|div\.w|div|double|gt|gte|hash\.bhp256|hash\.bhp512|hash\.bhp768|hash\.bhp1024|hash\.keccak256|hash\.keccak384|hash\.keccak512|hash\.ped64|hash\.ped128|hash\.psd2|hash\.psd4|hash\.psd8|hash\.sha3_256|hash\.sha3_384|hash\.sha3_512|hash_many\.psd2|hash_many\.psd4|hash_many\.psd8|inv|is\.eq|is\.neq|lt|lte|mod|mul\.w|mul|nand|neg|nor|not|or|pow\.w|pow|rem\.w|rem|shl\.w|shl|shr\.w|shr|sign\.verify|sqrt|square|sub\.w|sub|ternary|xor)\b</string>
       </dict>
       <key>numbers</key>
       <dict>
